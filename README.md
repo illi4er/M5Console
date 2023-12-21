@@ -21,6 +21,7 @@ from console import * (use only method)
 # Availible methods
 clear(name) - Clear console screen (or start console)
   name - name of your console (basic one is "Console")
+
 write(text, type) - Write something in console
   text - text, that you want to write
   type - type of message. Use it, if you want special color:
